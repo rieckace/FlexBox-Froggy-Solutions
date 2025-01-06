@@ -1,2 +1,85 @@
 # FlexBox-Froggy-Solutions
 CSS Flex practice game all 24 solutions.
+
+Level 1:
+      justify-content: flex-end;
+
+Level 2:
+      justify-content: center;
+
+Level 3:
+      justify-content: space-around;
+
+Level 4:
+      justify-content: space-between;
+
+Level 5:
+      align-items: flex-end;
+
+Level 6:
+      align-items: center; 
+      justify-content: center;
+
+Level 7:
+      justify-content: space-around;
+
+Level 8:
+      flex-direction: row-reverse;
+
+Level 9:
+      flex-direction: column;
+
+Level 10:
+      flex-direction: row-reverse; 
+      justify-content: flex-end;
+
+Level 11:
+      flex-direction: column;
+      justify-content: flex-end;
+
+Level 12:
+      flex-direction: column-reverse; 
+      justify-content: space-between;
+
+Level 13:
+      flex-direction: row-reverse; 
+      justify-content: center;
+      align-items: flex-end;
+
+Level 14:
+      order: 1;
+
+Level 15:
+      order: -3;
+
+Level 16:
+      align-self: flex-end;
+
+Level 17:
+      align-self: flex-end; 
+      order: 1;
+
+Level 18:
+      flex-wrap: wrap;
+
+Level 19:
+      flex-direction: column; 
+      flex-wrap: wrap;
+
+Level 20:
+      flex-flow: column wrap;
+
+Level 21:
+      align-content: flex-start;
+
+Level 22
+      align-content: flex-end;
+
+Level 23:    
+      flex-direction: column-reverse; 
+      align-content: center;
+
+Level 24:
+      flex-flow: column-reverse wrap-reverse; 
+      justify-content: center;
+      align-content: space-between;
